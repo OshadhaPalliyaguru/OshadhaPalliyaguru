@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ Tech Stack Arsenal
+## ⚡ Tech Stack 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,mysql,hibernate,redis,postman,docker&perline=10" />
 <br/>
