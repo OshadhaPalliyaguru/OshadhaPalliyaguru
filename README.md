@@ -27,17 +27,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OshadhaPalliyaguru&theme=radical&no-frame=true&row=1&column=7" />
-</div>
 
----
-
-## ⭐ GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OshadhaPalliyaguru&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
