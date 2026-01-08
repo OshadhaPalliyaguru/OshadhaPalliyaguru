@@ -41,17 +41,7 @@
 
 ---
 
-## 🔥 GitHub Streak  
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=OshadhaPalliyaguru&theme=tokyonight&hide_border=true" />
-</div>
 
----
-
-## 🔧 Top Languages  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaPalliyaguru&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</div>
 
 ---
 
