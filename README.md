@@ -80,7 +80,7 @@
  *    OSHADHA PALLIYAGURU - SYSTEM BOOT SEQUENCE
  * ================================================
  *  Role:      Trainee Software Engineer
- *  Brand:     OzBeatz SL | Cinematic Visuals
+ *  Brand:     Oz Studio
  *  Version:   v2.0.25
  *  Status:    ACTIVE 🔥
  */
