@@ -91,7 +91,7 @@ public class OshadhaProfile extends SoftwareEngineer implements CreativeMind {
     private final String[] designSkills = { "Figma", "Photoshop", "Illustrator", "Filmora" };
 
     private enum Mode {
-        DEVELOPMENT, DESIGN, INNOVATION, CINEMATIC_MODE
+        DEVELOPMENT, DESIGN, INNOVATION
     }
 
     private Mode currentMode = Mode.DEVELOPMENT;
