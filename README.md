@@ -88,7 +88,7 @@ public class OshadhaProfile extends SoftwareEngineer implements CreativeMind {
 
     private final String education = "iCET - Diploma in Software Engineering";
     private final String creativeBrand = "Oz Dev Studio;
-    private final String[] designSkills = { "Figma", "Photoshop", "Illustrator", "Filmora" };
+    private final String[] designSkills = { "Figma", "Photoshop", "Illustrator"};
 
     private enum Mode {
         DEVELOPMENT, DESIGN, INNOVATION
