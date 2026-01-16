@@ -49,12 +49,6 @@
 
 ---
 
-## 🧩 Badges
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=OshadhaPalliyaguru&color=blueviolet&style=flat-square" />
-<img src="https://img.shields.io/github/followers/OshadhaPalliyaguru?style=social" />
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-</div>
 
 ---
 
