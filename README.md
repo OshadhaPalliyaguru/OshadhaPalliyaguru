@@ -52,11 +52,6 @@
 
 ---
 
-## 🔗 Connect With Me
-<div align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/oshadha-palliyaguru/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:moshadha23@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
 
 ---
 
