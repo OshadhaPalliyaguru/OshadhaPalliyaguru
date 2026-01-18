@@ -122,7 +122,7 @@ public class OshadhaProfile extends SoftwareEngineer implements CreativeMind {
         dev.switchMode(Mode.CINEMATIC_MODE);
         dev.currentFocus();
 
-        System.out.println("🚀 System Running: Engineering x Art Fusion Active.");
+        System.out.println("🚀 System Running: Engineering");
     }
 }
 
