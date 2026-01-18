@@ -92,7 +92,7 @@ public class OshadhaProfile extends SoftwareEngineer implements CreativeMind {
 
     public void currentFocus() {
 
-        String[] backend = { "Java", "Spring Boot", "MySQL", "WebSockets" };
+        String[] backend = { "Java", "Spring Boot", "MySQL"};
         String[] frontend = { "React", "Three.js", "TailwindCSS" };
         String[] mission = {
             "Build scalable systems",
