@@ -119,7 +119,7 @@ public class OshadhaProfile extends SoftwareEngineer implements CreativeMind {
         OshadhaProfile dev = new OshadhaProfile();
 
         dev.igniteCreativity();
-        dev.switchMode(Mode.CINEMATIC_MODE);
+        dev.switchMode();
         dev.currentFocus();
 
         System.out.println("🚀 System Running: Engineering");
